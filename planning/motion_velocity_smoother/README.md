@@ -242,6 +242,7 @@ After the optimization, a resampling called `post resampling` is performed befor
 <!-- Write parameters of this package.
 
 Example:
+
   ### Node Parameters
 
   | Name                   | Type | Description                     |
